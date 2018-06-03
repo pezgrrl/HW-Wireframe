@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.header {
+    position: relative;
+    left: 250px;
+    display: block;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ebebeb;
+    text-align: center;
+    
+
+}
+
+.topnav {
+    position: relative;
+    left: 250px;
+    display: block;
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+
+}
+    
+.section {
+    position: relative;
+    left: 250px;
+    background: #ebebeb;
+    display: block;
+    text-align: center;
+    height: 250px;
+    width: 500px;
+    padding: 20px;
+    
+    
+
+}
+
+.article {
+    position: relative;
+    left: 5px;
+    display: block;
+    background: #777;
+    color: #ebebeb;
+    text-align: center;
+    height: 150px;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.divone {
+    background-color: #ebebeb;
+    color: #777;
+    width: 350px;
+    height: 30px;
+    margin: 5px auto;
+}
+
+.divtwo {
+    background-color: #ebebeb;
+    color: #777;
+    width: 350px;
+    height: 30px;
+    margin: 5px auto;
+}
+
+.aside {
+    position: relative;
+    left: 450px;
+    top: -213px;
+    background: #ebebeb;
+    display: block;
+    text-align: center;
+    height: 250px;
+    width: 440px;
+    padding: 20px;
+    
+}
+
+.footer {
+    position: absolute;
+    left: -65px;
+    top: 155px;
+    display: block;
+    background-color: #ebebeb;
+    width: 960px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+}
